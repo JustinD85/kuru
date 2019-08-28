@@ -1,0 +1,23 @@
+{
+  "name": "kuru",
+  "version": "1.0.0",
+  "description": "JSX parser with using React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustinD85/kuru.git"
+  },
+  "keywords": [
+    "JSX",
+    "parser"
+  ],
+  "author": "justinD85",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JustinD85/kuru/issues"
+  },
+  "homepage": "https://github.com/JustinD85/kuru#readme"
+}
