@@ -1,1 +1,0 @@
-exports.printMsg = () => console.log("Message from npm package")

@@ -1,0 +1,1 @@
+export const printMsg = () => console.log("Message from npm package")
