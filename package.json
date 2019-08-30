@@ -1,6 +1,6 @@
 {
   "name": "kuru",
-  "version": "1.0.01",
+  "version": "1.0.12",
   "description": "JSX parser with using React",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

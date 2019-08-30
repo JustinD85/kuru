@@ -1,1 +1,1 @@
-export declare const printMsg: () => void;
+export declare function kuru(tagOrNodeFunction: any, attrs: any, ...children: any[]): any;
