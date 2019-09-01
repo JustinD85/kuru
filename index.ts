@@ -1,5 +1,5 @@
 export function kuru(tagOrNodeFunction: any, attrs: any, ...children: any[]) {
-    if (typeof tagOrNodeFunction === 'function') return tagOrNodeFunction()//this allows for custom JSX functions(Components)
+    if (typeof tagOrNodeFunction === 'function') return tagOrNodeFunction(attrs, ...children)//this allows for custom JSX functions(Components)
     if (Array.isArray(children[0])) children = children[0]//this allow for jsx to be put in array and rendered still
 
     return children.reduce((element, child) => (

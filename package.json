@@ -1,7 +1,7 @@
 {
   "name": "kuru",
   "version": "1.0.12",
-  "description": "JSX parser with using React",
+  "description": "JSX parser without using React",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
