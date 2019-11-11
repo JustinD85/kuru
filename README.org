@@ -1,1 +1,10 @@
-# kuru
+* kuru
+
+** To use:
+#+BEGIN_SRC javascript
+npm install kuru
+#+END_SRC 
+Then in your file instead of importing React... import kuru: 
+#+BEGIN_SRC javascript
+import {kuru} from 'kuru' 
+#+END_SRC
